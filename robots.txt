@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://arielbarlocco-22.github.io/portfolio-operaciones/sitemap.xml

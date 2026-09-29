@@ -1,5 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://arielbarlocco-22.github.io/portfolio-operaciones/</loc>
   </url>
+
+  <url>
+    <loc>https://arielbarlocco-22.github.io/portfolio-operaciones/blog/</loc>
+  </url>
+
+  <url>
+    <loc>https://arielbarlocco-22.github.io/portfolio-operaciones/blog/operations/fugas-operativas/</loc>
+  </url>
+
 </urlset>
